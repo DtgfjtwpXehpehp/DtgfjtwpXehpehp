@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sivuyilemtwetwe@gmail.com**
 
-- 📄 Know about my experiences [sivuilemtwetwe.cv](https://sivuilemtwetwe.cv)
+- 📄 Know about my experiences [sivuyilemtwetwe.cv](https://sivuyilemtwetwe.cv)
 
 - ⚡ Fun fact **I know everything, except the things I do not know.**
 
