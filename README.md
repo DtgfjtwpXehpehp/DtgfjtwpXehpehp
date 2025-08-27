@@ -2,11 +2,11 @@
   
 # 👨‍💻 Sivuyile Mtwetwe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dtgfjtwpxehpehp&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dtgfjtwpxehpehp?color=00d9ff&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=dtgfjtwpxehpehp&color=4FC08D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dtgfjtwpxehpehp?color=4FC08D&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
 </p>
 
 ---
@@ -29,17 +29,17 @@ const sivuyile = {
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/🔭_Current_Project-Employee_Management_System-00d9ff?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🔭_Current_Project-Employee_Management_System-4FC08D?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/🌱_Learning-React_|_C%23_|_Kotlin-00d9ff?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🌱_Learning-React_|_C%23_|_Kotlin-4FC08D?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/💼_Portfolio-sivuyilemtwetwe.co.za-00d9ff?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/💼_Portfolio-sivuyilemtwetwe.co.za-4FC08D?style=for-the-badge" />
     </td>
   </tr>
 </table>
