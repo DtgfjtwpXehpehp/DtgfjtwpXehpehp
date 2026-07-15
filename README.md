@@ -143,10 +143,21 @@ Coffee Recommendations ☕
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DtgfjtwpXehpehp&layout=pie&langs_count=20&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=DtgfjtwpXehpehp&layout=pie&langs_count=20&theme=github_dark)
+<div align="center">
 
-<div >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtgfjtwpxehpehp&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<table>
+<tr>
+<td width="50%">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=DtgfjtwpXehpehp&layout=pie&langs_count=20&theme=github_dark">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=DtgfjtwpXehpehp&layout=pie&langs_count=20&theme=github_dark" alt="Most Used Languages" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dtgfjtwpxehpehp&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
@@ -183,4 +194,3 @@ Coffee Recommendations ☕
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" />
 </div>
-
