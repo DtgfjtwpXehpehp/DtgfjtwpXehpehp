@@ -143,10 +143,7 @@ Coffee Recommendations ☕
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dtgfjtwpxehpehp&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtgfjtwpxehpehp&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DtgfjtwpXehpehp&layout=pie&langs_count=20&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=DtgfjtwpXehpehp&layout=pie&langs_count=20&theme=github_dark)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtgfjtwpxehpehp&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
