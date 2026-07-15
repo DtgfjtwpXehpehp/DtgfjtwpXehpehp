@@ -145,7 +145,7 @@ Coffee Recommendations ☕
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DtgfjtwpXehpehp&layout=pie&langs_count=20&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=DtgfjtwpXehpehp&layout=pie&langs_count=20&theme=github_dark)
 
-<div align="center">
+<div >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtgfjtwpxehpehp&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
