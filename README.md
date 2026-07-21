@@ -164,6 +164,14 @@ Coffee Recommendations ☕
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtgfjtwpxehpehp&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF" alt="Contribution Graph" />
 </div>
 
+<br><br><br><br>
+<h1>📊 GitHub Stats</h1>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dtgfjtwpxehpehp&theme=calm" width="32%" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dtgfjtwpxehpehp&theme=calm" width="32%" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dtgfjtwpxehpehp&theme=calm&utcOffset=5.5" width="32%" alt="Productive Time"/>
+  <br>
+<br><br><br>
+
 ---
 
 
