@@ -166,9 +166,9 @@ Coffee Recommendations ☕
 
 <br><br><br><br>
 <h1>📊 GitHub Stats</h1>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dtgfjtwpxehpehp&theme=calm" width="32%" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dtgfjtwpxehpehp&theme=calm" width="32%" alt="Top Languages by Commit"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dtgfjtwpxehpehp&theme=calm&utcOffset=5.5" width="32%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dtgfjtwpxehpehp&theme=monokai" width="32%" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dtgfjtwpxehpehp&theme=monokai" width="32%" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dtgfjtwpxehpehp&theme=monokai&utcOffset=5.5" width="32%" alt="Productive Time"/>
   <br>
 <br><br><br>
 
